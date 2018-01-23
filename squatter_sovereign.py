@@ -5,7 +5,7 @@ import urllib
 chronam = 'https://chroniclingamerica.loc.gov'
 
 # Enter Chronicling Ameirca JSON search results url
-results = 'https://chroniclingamerica.loc.gov/search/pages/results/?lccn=sn82015827&dateFilterType=yearRange&date1=1789&date2=1949&language=&ortext=&andtext=&phrasetext=&proxtext=&proxdistance=5&rows=500&searchType=advanced&format=json'
+results = 'https://chroniclingamerica.loc.gov/search/pages/results/?lccn=sn82015827&dateFilterType=yearRange&date1=1789&date2=1949&language=&ortext=&andtext=&phrasetext=&proxtext=&proxdistance=5&rows=30&searchType=advanced&format=json'
 
 # Count to keep track of number of files downloaded
 count = 0
